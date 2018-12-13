@@ -1,1 +1,1 @@
-# typescript-degug
+# typescript-debug
